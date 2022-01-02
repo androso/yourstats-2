@@ -1,0 +1,2 @@
+- Use the access token we have in the local storage to fetch data from the api.
+- Display that data on the render return
