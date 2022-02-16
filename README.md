@@ -1,3 +1,12 @@
+## Spotify stats
+
+The frontend of an app that lets you see your spotify statistic around playlists, music and albums.
+For the backend, visit [this link](https://github.com/androso/spotify_app-bk)
+
+## Running locally
+dev: npm run dev
+build: npm run build
+
 ## Running React on Repl.it
 
 [React](https://reactjs.org/) is a popular JavaScript library for building user interfaces.
